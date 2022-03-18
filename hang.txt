@@ -1,0 +1,38 @@
+mh1a, Khau trang, Hop, 31/ 12/ 2001, 270, 80000
+mh1a, Nuoc rua tay, Chai, 31/ 12/ 2001, 70, 50000
+mh3b, Binh oxy, Binh, 1/ 1/ 2020, 20, 100000
+mh1b, Tam bong y te, Hop, 3/ 1/ 2020, 30, 10000
+mh2a, Gao, Bao, 1/ 1/ 2020, 60, 200000
+mh2a, Mi tom, Thung, 1/ 1/ 2020, 100, 100000
+mh4b, Khoai lang, Kg, 2/ 1/ 2020, 10, 20000
+mh6a, Vitamin C, Hop, 2/ 1/ 2020, 30, 22000
+mh6a, Berberin, Hop, 1/ 1/ 2020, 25, 10000
+mh1b, Khau trang, Hop, 1/ 1/ 2020, 40, 750000
+mh1a, Mat na y te, Cai, 23/ 2/ 2020, 30, 10000
+mh5a, Cam, Kg, 27/ 2/ 2020, 20, 30000
+mh1a, Khau trang, Hop, 7/ 8/ 2020, 50, 800000
+mh1a, Nuoc rua tay, Chai, 8/ 8/ 2020, 20, 50000
+mh2a, Gao, Bao, 19/ 8/ 2020, 70, 200000
+mh6b, Vitamin C, Hop, 21/ 8/ 2020, 20, 20000
+mh6a, Hoat huyet, Hop, 23/ 8/ 2020, 10, 120000
+mh1a, Khau trang, Hop, 30/ 4/ 2021, 270, 800000
+mh1a, Nuoc rua tay, Chai, 30/ 12/ 2019, 70, 50000
+mh3b, Binh oxy, Binh, 1/ 1/ 2020, 20, 100000
+mh2a, Mi tom, Thung, 1/ 1/ 2020, 100, 100000
+mh4b, Sup lo, Kg, 20/ 06/ 2021, 20, 10000
+mh4b, Ca tim, Kg, 28/ 06/ 2021, 28, 12000
+mh2b, Nuoc mam, Chai, 2/ 7/ 2021, 30, 25000
+mh2b, Dau an, Chai, 4/ 7/ 2021, 20, 30000
+mh3b, Binh oxy, Binh, 29/ 7/ 2021, 40, 100000
+mh2a, Mi tom, Thung, 12/ 2/ 2021, 30, 12000
+mh1a, Tam bong y te, Hop, 30/ 8/ 2021, 40, 20000
+mh1a, Mi, thung, 1/ 2/ 2020, 20, 20000
+mh1b, Khau trang, Hop, 12/ 2/ 2002, 20, 100000
+mh1a, Khau trang, Hop, 12/ 2/ 2020, 20, 40000
+mh2, Khau trang, Hop, 12/ 2/ 2020, 22, 30000
+mh2b, Gao, Bao, 12/ 2/ 2020, 23, 333000
+mh2, Gao, Bao, 12/ 2/ 2020, 22, 120000
+mh2a, Gao, Bao, 21/ 2/ 2020, 22, 200000
+1, to, kg, 12/ 2/ 2020, 21, 21
+mh1c, dan guitar, cay, 3/ 3/ 2022, 20, 140000
+mh03, vitamin E, hop, 21/ 2/ 2022, 21, 23000
