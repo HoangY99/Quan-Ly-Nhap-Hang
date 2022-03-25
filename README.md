@@ -1,5 +1,5 @@
 # Quan-Ly-Nhap-Hang
-Chương trình quản lý hàng nhập vào kho với các chức năng: xem, chỉnh sửa, tìm kiếm, xóa, sắp xếp các đơn nhập hàng.
+Chương trình quản lý hàng nhập vào kho được viết bằng ngôn ngữ C++, với các chức năng: xem, chỉnh sửa, tìm kiếm, xóa, sắp xếp các đơn nhập hàng.
 
 <img width="711" alt="image" src="https://user-images.githubusercontent.com/80016805/159170901-10195366-9295-4183-bbda-ad79f285f4d1.png">
 
